@@ -1,4 +1,4 @@
-# To-Do List Application
+# To-Do-List Application
 
 A simple and interactive **To-Do List Application** built using **HTML, CSS, and JavaScript**. This project allows users to add, remove, and edit tasks, helping them stay organized and productive.
 
@@ -36,8 +36,10 @@ A simple and interactive **To-Do List Application** built using **HTML, CSS, and
 
 
 ## 📸 Preview
-(![Screenshot-To-do-list](https://github.com/user-attachments/assets/e439d6d5-f004-4bb2-bc4c-3ba7832d4636)
-)
+
+![Screenshot-To-do-list](https://github.com/user-attachments/assets/9fa9aff9-69e8-4e98-88f7-f83a7f94bb24)
+
+
 
 ## 💡 Future Enhancements
 
