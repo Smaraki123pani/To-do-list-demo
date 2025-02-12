@@ -35,8 +35,9 @@ A simple and interactive **To-Do List Application** built using **HTML, CSS, and
 3. Open `https://to-do-list-smaraki.netlify.app/` in your browser.
 
 
-## 📸 Preview
+## 📸 Screenshot
 
+Preview of To-do-list application:
 ![Screenshot-To-do-list](https://github.com/user-attachments/assets/9fa9aff9-69e8-4e98-88f7-f83a7f94bb24)
 
 
