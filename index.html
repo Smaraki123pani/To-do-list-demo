@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Do List App</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body onload="time()">
+
+    <div class="todo-container">
+        <div class="todo-date-hour">
+            <p id="date">DATE</p>
+            <p id="hour">HOUR</p>
+        </div>
+
+    <header>
+        <h1> <i class="fa-solid fa-list"></i> To Do List</h1>
+    </header>
+
+    <!--Add task-->
+    <form action="" id="todo-add">
+        <p>Add Your Task</p>
+        <div class="form-control">
+            <input type="text" id="todo-input-add" placeholder="Type here...">
+            <button type="submit">Add
+            </button>
+        </div>
+    </form>
+
+    <!--Edit task-->
+    <form action="" id="todo-edit" class="hide">
+        <p>Edit Your Task</p>
+        <div class="form-control">
+            <input type="text" id="todo-input-edit" placeholder="Type here">
+            <button type="submit">
+                <i class="fa-solid fa-check"></i>
+            </button>
+        </div>
+
+        <button type="button" id="cancel-btn">Cancel</button>
+    </form>
+
+    <!--Task List-->
+
+    <div class="todo-list" id="todo-list">
+        <div class="todo">
+            <h3>Some Default Task</h3>
+            <button class="edit">
+                <i class="fa-solid fa-pen"></i>
+            </button>
+            <button class="remove">
+                <i class="fa-solid fa-trash"></i>
+            </button>
+        </div>
+    </div>
+
+</div>
+    
+</body>
+<script src="script.js"></script>
+</html>
