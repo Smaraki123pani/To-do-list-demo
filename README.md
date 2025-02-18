@@ -29,7 +29,7 @@ A simple and interactive **To-Do List Application** built using **HTML, CSS, and
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/to-do-list-app.git
+   git clone https://github.com/Smaraki123pani/To-do-list-demo.git
    ```
 2. Open `index.html` in your browser.
 3. Open `https://to-do-list-smaraki.netlify.app/` in your browser.
