@@ -18,7 +18,7 @@ A simple and interactive **To-Do List Application** built using **HTML, CSS, and
 ## 📂 Project Structure
 
 ```
-📁 to-do-list-app/
+📁 To-do-list-demo/
  ├── 📄 index.html       # Main HTML file
  ├── 📄 style.css        # CSS file for styling
  ├── 📄 script.js        # JavaScript file for logic
@@ -32,7 +32,8 @@ A simple and interactive **To-Do List Application** built using **HTML, CSS, and
    git clone https://github.com/Smaraki123pani/To-do-list-demo.git
    ```
 2. Open `index.html` in your browser.
-3. Open `https://to-do-list-smaraki.netlify.app/` in your browser.
+   
+4. Open `https://to-do-list-smaraki.netlify.app/` in your browser.
 
 
 ## 📸 Screenshot
